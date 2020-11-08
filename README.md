@@ -1,1 +1,1 @@
-#My first turtle draw program!
+My first turtle draw program!
